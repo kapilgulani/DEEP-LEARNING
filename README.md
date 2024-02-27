@@ -4,9 +4,9 @@ This repository contains the development and evaluation of a neural network mode
 
 ## Overview
 
-The project evaluates two main configurations:
-1. **Initial Model**: Utilizes a basic optimization approach for symbol detection.
-2. **Adam Optimized Model**: Incorporates the Adam optimizer for improved performance.
+The project evaluates main configurations:
+- **Initial Model**: Utilizes a basic optimization approach for symbol detection.
+- **Adam Optimized Model**: Incorporates the Adam optimizer for improved performance.
 
 ## Results
 
@@ -32,6 +32,4 @@ The comparative analysis between the initial and Adam optimized models reveals s
 
 The analysis underscores the critical impact of optimizer selection on the effectiveness of neural network models in symbol detection tasks. The Adam optimizer's adaptive learning rate mechanism proves to be crucial in achieving lower BER and improved model generalization.
 
-## Usage
 
-Details on how to train the model, including prerequisites, dataset preparation, and execution instructions, are provided within the repository to facilitate replication and further experimentation.
